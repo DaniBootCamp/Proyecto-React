@@ -1,0 +1,26 @@
+.header-container {
+    width: 100%;
+    text-align: center;
+    background-color: black;
+  }
+  
+  .logo {
+    height: 15em;
+    padding: 15px 550px;
+  }
+  
+  h1 {
+    margin: 0px;
+    color: chartreuse;
+    text-shadow: 2px 1px #ffebcd;
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+  }
+  
+  h2 {
+    font-size: 35px;
+  }
+  
+
+  
+

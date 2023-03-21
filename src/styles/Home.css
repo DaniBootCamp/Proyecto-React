@@ -1,0 +1,24 @@
+.home-container {
+  background-color: #4e3a1cd4;
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  text-align: center;
+  padding-top: 50px;
+}
+
+#home-image {
+  margin: 20px 0 60px 0;
+  padding: 20px;
+  border: solid 5px chartreuse;
+}
+
+.link-name {
+  text-decoration: none;
+  font-size: 2em;
+  color: blanchedalmond;
+}
+
+.link-name:hover {
+  color: chartreuse;
+  border-radius: 50px;
+}
